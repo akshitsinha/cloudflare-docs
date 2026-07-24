@@ -1,0 +1,19 @@
+src/content/docs/workers/wrangler/configuration.mdx
+  s_754ae32f05ccd7::t_b8b8ac301201c9 107,1921-1940,1954-1960
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ba6b71e0be8ad9050143a62c6f9414ec005e1769",
+  "prompts": {},
+  "sessions": {
+    "s_754ae32f05ccd7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_06d34ff07ffeso0tkCtqOwDm9H",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Akshit Sinha <asinha@cloudflare.com>"
+    }
+  }
+}
